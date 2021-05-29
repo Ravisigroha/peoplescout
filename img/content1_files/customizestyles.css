@@ -1,0 +1,166 @@
+body, button, input, select, optgroup, textarea { font-family:Open Sans }h1, h2, h3, h4, h5, h6 { font-family:Montserrat }body,
+        .tab_tabs .tab.active,
+        article header h2 a,
+        article.post-listing span.posted-on a,
+        .relatedcontent h3 a,
+        .accordion-container.archive-accordion .ac .ac-q,
+        li.jobsrow a {
+            color:#222222 
+        }hr.wp-block-separator {
+                border-color:#222222
+        }footer.site-footer, #footer-top {
+            background: #002960 
+        }ul.accordion-container .ac > .ac-q,
+        .jobsrow:hover a {
+            color:#ffffff 
+        }.ac-q .ac_arrows:after {
+            border-color: transparent#ffffff  #ffffff transparent;           
+        }.ac-q .ac_plusminus:after, .ac-q .ac_plusminus:before, a.ac-q:hover .ac_plusminus:before {
+            background-color: #ffffff ;          
+        }body {
+            color: #222222
+        }a,    
+    	.cta a,
+    	section.widget_categories ul li a,
+    	div#related_posts h4,
+    	ol li:before,
+    	.accordion-container.archive-accordion .ac.is-active a.ac-q,
+    	.accordion-container.archive-accordion a.ac-q:hover,
+        .is-style-outline a.wp-block-button__link:not(.has-text-color) {
+            color: #8ac700
+        }.page-banner .banner-content h1,
+    	.page-links a:hover,
+    	.page-links .current,
+    	button,
+    	input[type='button'],
+    	input[type='reset'],
+    	input[type='submit'],
+    	li.current-menu-parent a,
+    	.menu-main-menu-container>ul>li>ul>li a:hover,
+    	.menu-mobile span,
+    	.menu-mobile span:before,
+    	.menu-mobile span:after,
+    	.ac.is-active a.ac-q,
+    	a.ac-q:hover,
+    	.wp-block-button__link,
+    	.page-heading h1,
+    	a#loadMore,
+    	.btn,
+    	ul li:before,
+    	ul.all-jobs li a,
+    	.glide__bullet:hover button,
+    	.glide__bullet:focus button,
+    	.glide__bullet--active button,
+    	.glide__controls .glide__arrow,
+    	.navigation-pagination li a:hover,
+        .menu-main-menu-container>ul>li.highlighted,
+        .ac>.ac-q, 
+        .menu-main-menu-container>ul>li.current-menu-item a,         
+        .nav-links span.page-numbers.current,
+        .nav-links a.page-numbers:hover,
+        .hamicon .line,
+        .main-navigation ul li ul.sub-menu.open-submenu {
+            background: #8ac700
+        }blockquote.is-style-fancy-quote:before, blockquote.is-style-fancy-reverse-quote {
+            background-color: #8ac700
+        }@media all and (min-width:768px) {
+            .navigation-pagination li.active a {
+                background: #8ac700
+            }
+            .navigation-pagination li:first-child a,
+            .navigation-pagination li:last-child a {
+                background: #8ac700
+            }
+        }input[type='text']:focus,
+    	input[type='email']:focus,
+    	input[type='url']:focus,
+    	input[type='password']:focus,
+    	input[type='search']:focus,
+	    input[type='number']:focus,
+     	input[type='tel']:focus,
+     	input[type='range']:focus,
+     	input[type='date']:focus,
+    	input[type='month']:focus,
+    	input[type='week']:focus,
+    	input[type='time']:focus,
+    	input[type='datetime']:focus,
+    	input[type='datetime-local']:focus,
+    	input[type='color']:focus,
+    	textarea:focus,
+    	select:focus,
+    	.cta a,
+    	ul.all-jobs,
+    	.glide__slide--active .slide,
+    	.tab_tabs .tab.active,	    
+	    .wp-block-column h3:after,
+        blockquote,          
+        .is-style-outline a{
+            border-color: #8ac700
+        }
+        .accordion-container.archive-accordion .ac-q:hover .ac_arrows:after,
+        .accordion-container.archive-accordion .ac.is-active .ac-q .ac_arrows:after {
+            border-color: transparent #8ac700 #8ac700 transparent;
+        }.menu-main-menu-container>ul>li>ul>li a:hover {
+            background-color: #8ac700!important;
+        }blockquote.is-style-fancy-quote {
+            background: #004d71
+        } .card {
+            background-color: #eeeeee
+        }ul#breadcrumbs,
+        ul#breadcrumbs a,
+        .tab_tabs .tab,
+        main.single-post article.single-post .entry-meta,
+        main.single-post article.single-post .entry-meta a,
+        .cat-list a {
+            color: #444444
+        }h1, h2, h3, h4, h5, h6 {
+                color:#14284b
+        }.cat-list a:after,
+        .accordion-container.archive-accordion .ac-a ul {
+            border-color: #444444
+        }blockquote.is-style-fancy-quote,
+    	.wp-block-button.disabled a,
+	    #related_posts, 
+	    .ac {
+            background: #004d71
+        }.menu-main-menu-container>ul>li.highlighted:hover, 
+        .wp-block-button__link:hover {
+                background:#009fda;
+                border-color:#009fda
+        }.wp-block-button.is-style-outline .wp-block-button__link:hover {
+                color:#009fda;
+                border-color:#009fda
+        }.screen-reader-text{
+            background-color: #ffffff
+        } header.site-header {
+            background:#ffffff 
+        }   button.tab.active,  button.tab.active:hover {
+            background-color: #004d71!important;
+        } h1 {            
+                color:#14284b 
+            } h2 {            
+                color:#14284b 
+            } h3 {            
+                color:#8ac700 
+            } h4 {            
+                color:#8ac700 
+            } h5 {            
+                color:#14284b 
+            } h6 {            
+                color:#14284b 
+            }.ac.is-active .ac-q, .ac-q:hover, blockquote.is-style-fancy-reverse-quote:before, .main-navigation ul li:hover a {
+                background-color: #009fda
+            }ul.footer-menu li a:hover, button#ot-sdk-btn:hover {
+                color: #009fda
+            }footer.site-footer, #footer-top, footer.site-footer a, #footer-top a, button#ot-sdk-btn {
+            color: #ffffff 
+        }.external-link svg  {
+            stroke: #8ac700 
+        }.navigation-pagination li.active a  {
+            background-color: #8ac700 !important;
+        }.nav-links a.next.page-numbers:after,
+            .nav-links a.prev.page-numbers:after {      
+                border-color: transparent #8ac700 #8ac700 transparent;
+            }.nav-links a.prev.page-numbers, .nav-links a.next.page-numbers {
+                    background: none;
+                }
